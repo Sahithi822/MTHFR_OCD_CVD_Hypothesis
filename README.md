@@ -28,7 +28,7 @@ Reduced activity of the MTHFR enzyme may lower 5-MTHF levels, impairing methylat
 ## 🧾 Full Hypothesis PDF
 
 📘 **View or download the full PDF here:**  
-➡️ [Click to open PDF](https://github.com/YOUR-USERNAME/MTHFR_OCD_CVD_Hypothesis/raw/main/MTHFR_OCD_CVD_Hypothesis_with_Figure.pdf)
+➡️ [Click to open PDF]
 
 ---
 
