@@ -2,7 +2,10 @@
 
 This repository presents a hypothesis exploring a potential biochemical connection between MTHFR-related folate metabolism, homocysteine regulation, and acetylcholine function — proposing a shared mechanism that could underlie both Obsessive-Compulsive Disorder (OCD) and cardiovascular disease (CVD).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17479378.svg)](https://doi.org/10.5281/zenodo.17479378)
+
 ---
+
 
 ## 🔬 Abstract
 
